@@ -32,7 +32,7 @@ function parse(str) {
   var obj = {},
     pairs = str.split(/ *; */)
   
-  if (!!pairs[0]) return obj
+  if (!pairs[0]) return obj
   
   for (let pair of pairs) {
     pair = pair.split('=')
