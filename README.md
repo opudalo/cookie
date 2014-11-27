@@ -1,11 +1,11 @@
-# cookie-es6
+## cookie-es6
   ES6 cookie module
 
-## Installation
+### Installation
 
     $ bower install zheneva/cookie-es6
 
-## Examples
+### Examples
 
 ```js
 
@@ -23,7 +23,3 @@ cookie('eat')
 cookie('eat', null)
 
 ```
-
-## License
-
-  MIT
