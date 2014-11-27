@@ -3,7 +3,7 @@
 
 ### Installation
 
-    $ bower install zheneva/cookie-es6
+    $ bower install --save zheneva/cookie-es6
 
 ### Examples
 
