@@ -1,6 +1,6 @@
 {
     "name": "cookie-es6",
     "description": "Cookie ES6 module",
-    "main": "index.es6.js",
+    "main": "index.js",
     "dependencies": {}
 }
