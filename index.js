@@ -25,7 +25,7 @@ function set(name, value, options = {}) {
 
 function get(name) {
   var cookies = parse(document.cookie)
-  return !!name ? cookies : cookies[name]
+  return !!name ? cookies[name] : cookies
 }
 
 function parse(str) {
