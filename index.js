@@ -38,4 +38,6 @@ function parse(str) {
     pair = pair.split('=')
     obj[decode(pair[0])] = decode(pair[1])
   }
+  
+  return obj
 }
