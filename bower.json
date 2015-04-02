@@ -1,6 +1,18 @@
 {
-    "name": "cookie-es6",
-    "description": "Cookie ES6 module",
-    "main": "index.js",
-    "dependencies": {}
+  "name": "cookie",
+  "version": "0.0.1",
+  "description": "cookie micro library",
+  "authors": [
+    "Eugene Chechurin <e.chechurin@gmail.com> (https://github.com/opudalo)"
+  ],
+  "main": "lib/index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/opudalo/cookie",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+  }
 }

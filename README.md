@@ -1,25 +1,16 @@
-## cookie-es6
-  ES6 cookie module
+# cookie
 
-### Installation
+cookie micro library
 
-    $ bower install --save opudalo/cookie-es6
+## Installation
 
-### Examples
+- `npm i --save opudalo/cookie`  
+or  
+- `bower i --save opudalo/cookie`
+
+
+## Examples
 
 ```js
-
-// set
-cookie('eat', 'salad')
-cookie('drink', 'tea', { path: '/' })
-
-// get
-cookie()
-// { eat: "salad", drink: "tea" }
-cookie('eat')
-// "salad"
-
-// remove
-cookie('eat', null)
-
+  // TODO
 ```
